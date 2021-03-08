@@ -1,0 +1,32 @@
+{
+    "countries": [
+        "Newyork",
+        "Tokyo",
+        "London",
+        "Cairo",
+        "Paris",
+        "Moscow",
+        "Islamabad",
+        "Bucharest"
+    ],
+    "vegetables": [
+        "Garlic",
+        "Spinach",
+        "Potato",
+        "Onion",
+        "Tomato",
+        "Beans",
+        "Broccoli",
+        "Cauliflower"
+    ],
+    "animals": [
+        "Snake",
+        "Tiger",
+        "Lion",
+        "Bear",
+        "Rabbit",
+        "Chimpanzee",
+        "Squirrel",
+        "Chicken"
+    ]
+}
